@@ -9,7 +9,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 
 **About Data set**
 
-The given dataset is a dataset from Rossmen industry who operates over 3,000 drug stores in 7 European countries, and we have to analysis the sales of the stores and whatbare the factores affecting the sales. in our given dataset has 1017209 rows and 18 columnn and There are some missing values and there is no duplicate values in the dataset
+The given dataset is a dataset from Rossmen industry who operates over 3,000 drug stores in 7 European countries, and we have to analysis the sales of the stores and what are the factores affecting the sales. in our given dataset has 1017209 rows and 18 columnn and There are some missing values and there is no duplicate values in the dataset
 
 Dataset link : https://www.kaggle.com/competitions/rossmann-store-sales/data
 
