@@ -69,7 +69,7 @@ The algorithm works by creating an ensemble of decision trees, where each tree i
 
 Random Forest regressor is known to be a very powerful algorithm that can handle high-dimensional data and a large number of input features. It is also relatively easy to use and interpret. It has several parameters that can be adjusted to optimize its performance, such as the number of trees in the ensemble, the maximum depth of each tree, and the minimum number of samples required to split a node.
 
-###**About model and Performance**
+**About model and Performance**
 
 **Linear Regression**
 
@@ -90,7 +90,9 @@ After hyperparameter tunning, Lasso gives 79% (approximately) accuracy.
 Among the all regression models, it is clear that Random Forest Regressor is giving the best result with the accuracy of 93.6% followed by Decison Tree Regressor with accuracy of 87.2%. So, we will use the random forest regressor to predict the sales.
 
 
-###**Conclusion:**
+**Conclusion:**
+
+
 the Rossmann Store Sales problem was a captivating data science challenge where adept feature engineering played a pivotal role. Our extensive data analysis, focusing on trends, facilitated effective feature selection. Ensemble learning emerged as a key factor in boosting predictive accuracy, particularly due to the sales-customer relationship.
 
 Boosted trees showcased their prowess in machine learning, but caution is warranted against overfitting with complex ensemble methods. For future predictions, the Random Forest Regressor stood out with 93.77% accuracy and an impressive R-squared score of 0.9377, making it our chosen model. The time-dependent nature of the data mandates a more sophisticated approach than random sub-sampling.
