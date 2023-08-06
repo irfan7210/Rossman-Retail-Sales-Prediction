@@ -97,4 +97,4 @@ The Rossmann Store Sales challenge was a fascinating puzzle for data experts. We
 
 A method called "boosted trees" worked really well in our machine learning. But we had to be careful because fancy techniques could make our predictions too specific to the training data. For predicting future sales, we found that a model called "Random Forest Regressor" was super accurate, with about 93.77% correct predictions. This model looks at relationships in the data and got an impressive score of 0.9377.
 
-Since the data changes over time, we can't just randomly pick parts to learn from. We need a smarter approach. In a competition, we got third place on the public leaderboard and fifth place on the private leaderboard. These rankings show that our way of working with data was really good and valuable..
+Since the data changes over time, we can't just randomly pick parts to learn from. We need a smarter approach. In a competition, we got third place on the public leaderboard and fifth place on the private leaderboard. These rankings show that our way of working with data was really good and valuable.
